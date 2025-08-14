@@ -10,3 +10,5 @@ Sample: *Drum loop*: https://freesound.org/people/SimpleSamplesDrums/sounds/5545
 Sample: *Darksynth Theme*: https://freesound.org/people/Projecteur/sounds/745926/
 
 Website: https://freesound.org/
+
+AUP3: https://drive.google.com/file/d/1HmuK250NFtkB4rjidNTLC06ceeAy9Bhu/view?usp=drive_link
